@@ -4,7 +4,7 @@ TUI DX Backend technical Test v2
 
 The base project uses lombok, so you have to install it. You can use the following guide https://www.baeldung.com/lombok-ide
 
-# Miquel Montoro Pilotes API
+# Miquel Montoro Pilotes API by Saul Martinez
 
 This API allows creating Clients, Create and Update Orders in order to allow the great Miquel Montoro
 to prepare the right ammount of his delicius Pilotes.

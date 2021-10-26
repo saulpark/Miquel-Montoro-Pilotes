@@ -1,0 +1,12 @@
+{
+  "number": "string",
+  "pilotes": 5,
+  "orderTotal": 500,
+  "orderTimestamp": "2021-10-25T19:55:22.659Z",
+  "deliveryAddress": {
+    "street": "string",
+    "postcode": "12345",
+    "city": "string",
+    "country": "string"
+  }
+}
